@@ -1,3 +1,8 @@
+# etc
+*.txt
+*.bin
+*.npy
+*.csv
 
 # Created by https://www.gitignore.io/api/java,python,eclipse,windows,intellij,jupyternotebook
 
